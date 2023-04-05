@@ -1,0 +1,22 @@
+{
+  "name": "jsontweets",
+  "version": "1.0.0",
+  "description": "### Thousands of Tweets about Trump in the json format",
+  "main": "getUserData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesturner-dev/jsonTweets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesturner-dev/jsonTweets/issues"
+  },
+  "homepage": "https://github.com/jamesturner-dev/jsonTweets#readme",
+  "dependencies": {
+    "deepmerge": "^4.3.1"
+  }
+}
